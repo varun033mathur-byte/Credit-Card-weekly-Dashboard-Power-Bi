@@ -19,7 +19,8 @@ Project Insights- Week 53 (31st Dec) WoW change
 • Overall Activation rate is 57.5%
  • Overall Delinquent rate is 6.06%
 
-<img width="1223" height="680" alt="image" src="https://github.com/user-attachments/assets/0505d66b-642c-4c7b-8266-d224b24caae2" />
+<<img width="1127" height="624" alt="image" src="https://github.com/user-attachments/assets/495225a0-b93a-4063-bf8d-0359e06a88e7" />
+
 
 
  <img width="1223" height="680" alt="image" src="https://github.com/user-attachments/assets/b5aa3c2e-a42d-404d-a516-b6a88832d6eb" />
